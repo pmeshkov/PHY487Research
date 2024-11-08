@@ -137,3 +137,21 @@ Na23Rb87 = {"I1":1.5,
             "a0":0*h, #Not reported
             "a2":0*h, #Not reported
             "Beta":0}
+
+Na23Cs133 = {"I1":1.5,
+            "I2":3.5,
+            "d0":4.69*DebyeSI,
+            "Brot":0.058*c*100*h,
+            "Drot":0*h,
+            "Q1":-0.097e6*h,
+            "Q2":0.150e6*h,
+            "C1":14.2*h,
+            "C2":854.5*h,
+            "C3":105.6*h,
+            "C4":3941.8*h,
+            "MuN":0*muN,
+            "Mu1":1.478*muN,
+            "Mu2":0.738*muN,
+            "a0":0*h, #Not reported
+            "a2":0*h, #Not reported
+            "Beta":0}
