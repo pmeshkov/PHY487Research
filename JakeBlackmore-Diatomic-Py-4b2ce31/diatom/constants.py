@@ -138,6 +138,8 @@ Na23Rb87 = {"I1":1.5,
             "a2":0*h, #Not reported
             "Beta":0}
 
+# For Na23Cs133
+# from https://journals.aps.org/pra/pdf/10.1103/PhysRevA.96.042506 
 Na23Cs133 = {"I1":1.5,
             "I2":3.5,
             "d0":4.69*DebyeSI,
