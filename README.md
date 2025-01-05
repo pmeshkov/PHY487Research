@@ -1,5 +1,5 @@
 # PHY487Research
-A repository for my PHY487 Research Course at SBU. The focus of the project is to investigate the rotational energy spectra of diatomic molecules in external fields, accounting for fine and hyperfine structure shifts, for applications in quantum computing.
+A repository for my PHY487 Research Course at SBU. The focus of the project is to investigate the rotational energy spectra of diatomic molecules in external fields, accounting for fine and hyperfine structure shifts, for applications in quantum computing. In particular, we will examine dipole dipole interactions in an array of such molecules.
 
 NOTE!!! Even though the git logs say that I made adjustments to the JakeBlackmore package, these adjustments were superficial. No significant adjustments are made to this package; I simply added NaCs to the constants. 
 
