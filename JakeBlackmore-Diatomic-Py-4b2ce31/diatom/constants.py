@@ -142,6 +142,8 @@ Na23Rb87 = {"I1":1.5,
 # from https://journals.aps.org/pra/pdf/10.1103/PhysRevA.96.042506 
 Na23Cs133 = {"I1":1.5,
             "I2":3.5,
+            "g1":1.478,
+            "g2":0.738,
             "d0":4.69*DebyeSI,
             "Brot":0.058*c*100*h,
             "Drot":0*h,
